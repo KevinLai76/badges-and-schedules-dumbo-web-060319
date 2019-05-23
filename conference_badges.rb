@@ -10,5 +10,5 @@ end
 
 def assign_rooms(array)
   rooms = []
-  array.each_with_index |atendee, i|
+  array.each_with_index{ |atendee, i| } 
 end 

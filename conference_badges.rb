@@ -9,5 +9,5 @@ def batch_badge_creator(attendees)
 end 
 
 def assign_rooms(array)
-  
+  array.each_with_index |
 end 

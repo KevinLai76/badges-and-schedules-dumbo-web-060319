@@ -14,4 +14,8 @@ def assign_rooms(array)
   return rooms
 end 
 
-def printer()
+def printer(array)
+  array.each do |attendee|
+    
+  end 
+end 
